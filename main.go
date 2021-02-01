@@ -6,3 +6,6 @@ func toCover(a bool) int {
 	}
 	panic("oh no!")
 }
+
+func main() {
+}
