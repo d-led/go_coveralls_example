@@ -15,3 +15,7 @@ func TestQuestions(t *testing.T) {
 		toCover(false)
 	})
 }
+
+func TestMain(t *testing.T) {
+	main()
+}
